@@ -65,8 +65,8 @@ Make sure you're running at least Python 2.7 or Python 3. We'll be using Python 
 Clone this repository:
 
 ```bash
-$ git clone https://github.com/kikinteractive/kik-bot-python-example.git
-Cloning into 'kik-bot-python-example'...
+$ git clone https://github.com/BagusMiftahRizqullah/kik-bot-python-engine-pencarian.git
+Cloning into 'kik-bot-python-engine-pencarian'...
 remote: Counting objects: 88, done.
 remote: Total 88 (delta 0), reused 0 (delta 0), pack-reused 88
 Receiving objects: 100% (88/88), 18.40 KiB | 0 bytes/s, done.
