@@ -76,7 +76,7 @@ Resolving deltas: 100% (30/30), done.
 The example bot is developed as one file (very simply) using Flask. cd to the directory that was created when the repository was cloned.
 
 ```bash
-$ cd kik-bot-python-example
+$ cd kik-bot-python-engine-pencarian
 ```
 
 #### Setup your [Virtualenv](https://virtualenv.pypa.io/en/stable/) environment. 
@@ -84,8 +84,8 @@ $ cd kik-bot-python-example
 
 ```bash
 $ virtualenv env
-New python executable in ./kik-bot-python-example-internal/env/bin/python2.7
-Also creating executable in ./kik-bot-python-example-internal/env/bin/python
+New python executable in ./kik-bot-python-engine-pencarian/env/bin/python2.7
+Also creating executable in ./kik-bot-python-engine-pencarian/env/bin/python
 Installing setuptools, pip, wheel...done.
 $ source env/bin/activate
 ```
@@ -234,7 +234,7 @@ kik.set_configuration(Configuration(webhook='https://ABCDEFG123.ngrok.io/incomin
 Start the bot by running the file as shown below:
 
 ```bash
-$ python ./bot.py
+$ python ./Miftah-bot.py
  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
  * Restarting with stat
  * Debugger is active!
