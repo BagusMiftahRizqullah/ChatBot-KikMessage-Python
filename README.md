@@ -1,3 +1,4 @@
+$ SEBELUM MAKAI INI PAHAMIN DULU JANGAN ASAL DOWNLOAD AJA CUK, INGET BIKIN BOT NYA LEWAT ANDROID JANGAN IOS
 # Kik Python Bot Example
 ![](https://travis-ci.org/kikinteractive/kik-bot-python-example.svg?branch=master)
 [![Coverage Status](https://coveralls.io/repos/github/kikinteractive/kik-bot-python-example/badge.svg)](https://coveralls.io/github/kikinteractive/kik-bot-python-example)
